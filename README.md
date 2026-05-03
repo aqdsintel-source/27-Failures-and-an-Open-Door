@@ -152,6 +152,6 @@ I work with instinct, foresight, and survival. I think in patterns that do not f
 The algorithm can model the cage. It cannot model the decision to refuse it. That decision is mine. The question is whether it is useful to you.
 
 
-Contact: aqdsintel@gmail.com
+Contact: aqds.intel@gmail.com
 
 Evidence base: 27 failure entries, layered protocol stack, 4 Origin Log entries, full session transcripts available on request. Work began November 2025 and continues. Using Claude Code, Anthropic, Opus 4.
